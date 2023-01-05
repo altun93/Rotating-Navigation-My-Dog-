@@ -13,7 +13,7 @@ body {
 }
 
 .container {
-  background-color: #fafafa;
+  background-color: #c2c6af;
   transform-origin: top left;
   transition: transform 0.5s linear;
   width: 100vw;
@@ -32,7 +32,7 @@ body {
 }
 
 .circle {
-  background-color: #ff7979;
+  background-color: #f21515;
   height: 200px;
   width: 200px;
   border-radius: 50%;
